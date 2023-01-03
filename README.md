@@ -11,7 +11,7 @@
 
 2023-01-03 ~ 2023-01-03
 
-## Link
+## 배포링크
 
 <a href="https://kyojin-hwang.github.io/overwatch-clone-front/">오버워치 캐릭터 선택창</a>
 

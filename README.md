@@ -4,6 +4,9 @@
 
 기본적인 html 과 css 로 캐릭선택창 구현
 
+<img src="https://user-images.githubusercontent.com/84490050/210314726-1583f964-8548-49b7-8f1e-96af2767bd65.gif" alt="overgif" "/>
+
+
 ## 기간
 
 2023-01-03 ~ 2023-01-03
@@ -25,5 +28,4 @@
 
 - transition 과 transform 에 대해서 더욱 알게 되었다.
 
-<img src="https://user-images.githubusercontent.com/84490050/210314726-1583f964-8548-49b7-8f1e-96af2767bd65.gif" alt="overgif" style="width:500px; height:500px;"/>
 

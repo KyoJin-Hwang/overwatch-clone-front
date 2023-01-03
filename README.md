@@ -4,7 +4,7 @@
 
 기본적인 html 과 css 로 캐릭선택창 구현
 
-<img src="https://user-images.githubusercontent.com/84490050/210314726-1583f964-8548-49b7-8f1e-96af2767bd65.gif" alt="overgif" "/>
+<img src="https://user-images.githubusercontent.com/84490050/210314726-1583f964-8548-49b7-8f1e-96af2767bd65.gif" alt="overgif" />
 
 
 ## 기간

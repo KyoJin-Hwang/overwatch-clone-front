@@ -24,4 +24,6 @@
 ## 배운점
 
 - transition 과 transform 에 대해서 더욱 알게 되었다.
-![Document_-_Chrome_2023-01-03_15-29-38_AdobeExpress](https://user-images.githubusercontent.com/84490050/210314726-1583f964-8548-49b7-8f1e-96af2767bd65.gif)
+
+<img src="https://user-images.githubusercontent.com/84490050/210314726-1583f964-8548-49b7-8f1e-96af2767bd65.gif" alt="overgif" />
+
